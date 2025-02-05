@@ -44,7 +44,7 @@ This project emphasizes not only the technical aspects of data analysis but also
 - Created **data-driven recommendations** for informed decision-making.  
 
 ## **Contributors**
-- **Lilly Parham, Pamela Alvardo-Zarate & Zainab Siddiqi**  
+- **Lilly Parham, Pamela Alvarado-Zarate & Zainab Siddiqi**  
 - **Georgia State University - Master of Science in Analytics**  
 
 ---
