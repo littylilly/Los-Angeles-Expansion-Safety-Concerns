@@ -5,7 +5,7 @@ This project was completed as part of **MSA 8030: Communicating with Data** at *
 It aims to analyze crime data in **Los Angeles** to help a company identify the safest location for a new **import/export warehouse** on the West Coast. The project also focuses on improving presentation and communication skills by delivering actionable insights and updates to stakeholders effectively.
 
 ## **Dataset**
-- **Source:** [LAPD Crime Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)  
+- **Source:** https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data  
 - **File:** `Crime_Data_from_2020_to_Present_20241004.csv`  
 - **Time Frame:** 2020 - 2023  
 
