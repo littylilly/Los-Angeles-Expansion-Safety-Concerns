@@ -38,8 +38,8 @@ This project emphasizes not only the technical aspects of data analysis but also
 - **Power BI / Tableau** for visualization.  
 - **Jupyter Notebook / Google Colab** for running analyses.  
 
-## **Results & Insights (To be Updated)**
-- Identified **safest areas** in Los Angeles for expansion.  
+## **Results & Insights**
+- Identified **West LA** in Los Angeles for expansion.  
 - Suggested **crime prevention measures** for securing warehouse operations.  
 - Created **data-driven recommendations** for informed decision-making.  
 
